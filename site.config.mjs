@@ -4,7 +4,7 @@ export const business = {
   phone: "(919) 230-8713",
   phoneHref: "+19192308713",
   address: "Cary, NC",
-  effectiveDate: "[DATE]",
+  effectiveDate: "May 26, 2022",
 };
 
 export function getSiteUrl(env = process.env) {
